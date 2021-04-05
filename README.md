@@ -11,4 +11,4 @@ I made it bruteforce the whole section because there is no possible way to predi
 ## Ida Script
 
 This script is used to deobfuscate the API calls made by the sample.
-** Change the function name as you wish for this script to run **
+**Change the function name as you wish for this script to run**
